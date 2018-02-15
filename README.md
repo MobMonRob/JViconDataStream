@@ -11,3 +11,5 @@ libboost_system-mt.so.1.58.0
 libboost_thread-mt.so.1.58.0
 
 libViconDataStreamSDK_CPP.so
+
+This is an experimental version only.
