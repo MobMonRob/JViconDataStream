@@ -2,7 +2,7 @@
 Java API to access Vicon Data Stream SDK.
 
 
-For legal reasons we are not allowed to include the VICON DataStream SDK in this repository, 
+For legal reasons the VICON DataStream SDK librarys are not included in this repository. 
 Please download the SDK from http://www.vicon.com and place the following files 
 in the libs folder:
    
