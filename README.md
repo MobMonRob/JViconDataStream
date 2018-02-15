@@ -12,4 +12,4 @@ libboost_thread-mt.so.1.58.0
 
 libViconDataStreamSDK_CPP.so
 
-This is an experimental version only.
+The wrapper code is created by SWIG. This is an experimental version only.
