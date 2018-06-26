@@ -14,7 +14,7 @@ libViconDataStreamSDK_CPP.so
 
 The wrapper code is created by SWIG (https://de.wikipedia.org/wiki/SWIG). This is an experimental version only with known issues.
 
-![Fig. 1](/images/parcours.png)
+![](/images/parcours.png)
 
 Gefördert durch das Ministerium für Wirtschaft und Energie aufgrund eines Beschlusses des Deutschen Bundestages.
 
