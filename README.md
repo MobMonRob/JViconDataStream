@@ -18,4 +18,4 @@ Gefördert durch das Ministerium für Wirtschaft und Energie aufgrund eines Besc
 
 ![](/images/zimlogo.png) ![](/images/logo-bmwi_small.png) 
 
-In the meantime completed version is available at (https://github.com/MobMonRob/JViconDataStream2).
+A completed version is available at (https://github.com/MobMonRob/JViconDataStream2).
