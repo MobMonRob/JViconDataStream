@@ -17,3 +17,5 @@ The wrapper code is created by SWIG (https://de.wikipedia.org/wiki/SWIG). This i
 Gefördert durch das Ministerium für Wirtschaft und Energie aufgrund eines Beschlusses des Deutschen Bundestages.
 
 ![](/images/zimlogo.png) ![](/images/logo-bmwi_small.png) 
+
+In the meantime completed version is available at (https://github.com/MobMonRob/JViconDataStream2).
